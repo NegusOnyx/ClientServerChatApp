@@ -55,6 +55,11 @@ This is a simple Java-based chat application using a client-server architecture.
 
 This message will only be seen by the client with the username "John."
 
+## Known Issues
+
+- Private messages might not be delivered if the recipient is not online.
+- Server must be restarted after a client disconnects.
+
 ## Future Improvements
 - Implement user authentication for enhanced security.
 - Improve the GUI design to make it more user-friendly.
@@ -66,4 +71,8 @@ This project is open-source and available under the MIT License.
 
 ## Author
 - **Larona Thandanani Bongumusa Mavuso**
+## Contact
+
+For any issues or inquiries, please reach out to:
+- **Larona Thandanani Bongumusa Mavuso**: laronamavuso5@gmail.com
 
